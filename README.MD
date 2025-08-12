@@ -54,10 +54,10 @@ Enjoy and try to win!
 ├── package.json       # Project dependencies
 └── README.md          # Project documentation
 
-🤝 Contributing
+🤝 
 Contributions are welcome!
 Please fork the repository and submit a pull request.
 
-📜 License
+📜 
 Inspired by Max Implemented by Bek
 
